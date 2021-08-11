@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nathan/Documents/CHIP8/src/chip8.cpp
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+random
+-
+time.h
+/home/nathan/Documents/CHIP8/src/time.h
+chip8.h
+/home/nathan/Documents/CHIP8/src/chip8.h
+
+/home/nathan/Documents/CHIP8/src/chip8.h
+stdint.h
+-
+
+/home/nathan/Documents/CHIP8/src/main.cpp
+iostream
+-
+chrono
+-
+thread
+-
+stdint.h
+/home/nathan/Documents/CHIP8/src/stdint.h
+SDL2/SDL.h
+-
+chip8.h
+/home/nathan/Documents/CHIP8/src/chip8.h
+
