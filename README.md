@@ -1,2 +1,2 @@
 # CHIP-8
-C++ CHIP8 Interpreter designed at HackTX 2019
+C++ Emulator of the CHIP-8 Interpreter, capable of emulating retro games like Space Invaders, Pong, and Pac Man
